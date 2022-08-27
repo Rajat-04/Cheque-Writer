@@ -12,3 +12,6 @@ Python Modules Required:
 7. docx
 8. num2words
 9. PyPDF2
+![3](https://user-images.githubusercontent.com/108835667/187018365-15320b08-3676-435a-b2c4-6fe808631eb2.png)
+![4](https://user-images.githubusercontent.com/108835667/187018367-391c286b-04f8-4324-92b8-0119ac5defa0.png)
+![5](https://user-images.githubusercontent.com/108835667/187018369-77e9636c-b5dd-4db1-9bca-cb123b2ffbb9.png)
